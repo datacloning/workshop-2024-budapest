@@ -6,7 +6,7 @@
 
 A kurzus 8 óra hosszú, 2024 augusztus 28-án, de. 8-tól du. 5-ig, az Állatorvostudományi Egyetem Biostatisztika Tanszékének számítőgépes laborjában.
 
-Jelentkezés a következő online űrlap kitöltésével lehetséges: ...
+Jelentkezés az [online űrlap kitöltésével](https://forms.reform.app/analythium/data-cloning-workshop-2024/npne8q) lehetséges.
 
 ## Oktatók
 
