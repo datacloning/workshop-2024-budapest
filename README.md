@@ -2,7 +2,7 @@
 
 > A kurzus nyelve **angol**!
 
-## Részvétel
+## Részvétel (MÉG ALAKULÓBAN)
 
 A kurzus 8 óra hosszú, 2024 augusztus 28-án, de. 8-tól du. 5-ig, az Állatorvostudományi Egyetem Biostatisztika Tanszékének számítőgépes laborjában.
 
@@ -15,13 +15,14 @@ Jelentkezés a következő online űrlap kitöltésével lehetséges: ...
 
 ## Összefoglaló
 
-A kevert, vagy hierarchikus modellek nagyon hasznosak sokféle alkalmazott területen.
-A kurzus célja, hogy külőnféle gyakorlati problémák bemutatása révén bevezetést nyújtson ezen modellek felépítésébe, elméletébe, és implementációjába.
-A kurzus során előadások és számítógépes gyakorlatok révén fogjuk elmagyarázni a legyakoribb modellek felépítését és működését. Ezt aztán a résztveők saját igényeikna megfelelően tovább fejleszthetik.
+A kevert, vagy hierarchikus modellek nagyon hasznosak sokféle alkalmazott területen. A kurzus célja, hogy különféle gyakorlati problémák bemutatása révén bevezetést nyújtson ezen modellek felépítésébe, elméletébe, és implementációjába.
+
+A kurzus során előadások és számítógépes gyakorlatok révén fogjuk elmagyarázni a legyakoribb modellek felépítését és működését. Ezt aztán a résztvevők saját igényeiknek megfelelően tovább fejleszthetik.
 
 A résztvevőktől azt várjuk, hogy ismerik az R programozási nyelv alapjait és jártasak a regressziószámítás területén. A hierarchikus modellek vagy a Bayes-i statisztika ismerete nem követelmény, de hasznos lehet.
 
 A kurzus végén a résztvevők megfelelő alapokkal fognak rendelkezni ahhoz, hogy kritikusan tudjanak gondolkozni a frekventista és Bayes-i modellekről, képesek legyenek (majdnem) minden hierarchikus modell használatára.
+
 
 ## Előkészületek
 
