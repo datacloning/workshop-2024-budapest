@@ -5,3 +5,10 @@ Az applikáció segítségével különféle statisztikai eloszlásokat próbál
 A futtatás ebből a könyvtárból R-ban a következő parancs segítségével: `shiny::runApp()`.
 
 A már telepített verzió itt érhető el: <https://psolymos.shinyapps.io/dcapps/>.
+
+Shinylive webr segítségével (<https://posit-dev.github.io/r-shinylive/>):
+
+```R
+shinylive::export("app", "docs")
+httpuv::runStaticServer("docs/", port=8080)
+```

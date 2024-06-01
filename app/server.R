@@ -5,8 +5,8 @@ server <- function(input, output) {
         if (input$distr == "Uniform" && input$b < input$a)
             stop("Maximum must be greater than Minimum")
         y <- switch(input$distr,
-            "Bernoulli" = rbinom(1000, 1, input$p),
-            "Binomial" = rbinom(1000, input$size, input$p),
+            "Bernoulli" = rbinom(1000, 1, input$p_bern),
+            "Binomial" = rbinom(1000, input$size, input$p_binom),
             "Poisson" = rpois(1000, input$lambda),
             "Normal" = rnorm(1000, input$mu, sqrt(input$var)),
             "Lognormal" = rlnorm(1000, input$mux, sqrt(input$varx)),
@@ -24,8 +24,8 @@ server <- function(input, output) {
             "Beta" = seq(0.0001, 0.9999, length.out = 1000),
             "Gamma" = seq(0.0001, max(yy), length.out = 1000))
         d <- switch(input$distr,
-            "Bernoulli" = dbinom(x, 1, input$p),
-            "Binomial" = dbinom(x, input$size, input$p),
+            "Bernoulli" = dbinom(x, 1, input$p_bern),
+            "Binomial" = dbinom(x, input$size, input$p_binom),
             "Poisson" = dpois(x, input$lambda),
             "Normal" = dnorm(x, input$mu, sqrt(input$var)),
             "Lognormal" = dlnorm(x, input$mux, sqrt(input$varx)),

@@ -45,7 +45,7 @@ A jegyzetek markdown formátumban a GitHub-on érhetőek el, ajánljuk a _világ
 | Part 2. Kevert modellek  | [Jegyzetek](./02-mixed-models/)  |
 | Part 3. Idősorok  | [Jegyzetek](./03-time-series/)  |
 | Part 4. Gyakorlati magfontolások  | [Jegyzetek](./04-other/)  |
-| Irodalmak  | [PDF fájlok](./irodalom/)  |
+| Irodalom  | [PDF fájlok](./irodalom/)  |
 
 ## Licensz
 

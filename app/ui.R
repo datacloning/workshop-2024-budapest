@@ -35,12 +35,12 @@ ui <- dashboardPage(
               ## Bernoulli
               conditionalPanel(
                 condition = "input.distr == 'Bernoulli'",
-                  sliderInput("p", label = "Probability",
+                  sliderInput("p_bern", label = "Probability",
                           min = 0, max = 1, value = 0.3, step = 0.05)),
               ## Binomial
               conditionalPanel(
                 condition = "input.distr == 'Binomial'",
-                  sliderInput("p", label = "Probability",
+                  sliderInput("p_binom", label = "Probability",
                           min = 0, max = 1, value = 0.3, step = 0.05),
                   sliderInput("size", label = "Size",
                           min = 1, max = 1000, value = 10, step = 1)),
