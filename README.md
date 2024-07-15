@@ -8,7 +8,7 @@ A kurzus 8 óra hosszú, 2024 augusztus 28-án, de. 8-tól du. 5-ig, az Állator
 
 Jelentkezés az [online űrlap kitöltésével](https://forms.office.com/e/VaFxrrRYAu) lehetséges.
 
-![](flyer.png)
+![](flyer.jpg)
 
 ## Oktatók
 
