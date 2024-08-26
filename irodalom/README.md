@@ -10,7 +10,7 @@ Lele, S. R., Nadeem, K., and Schmuland, B., 2010. Estimability and likelihood in
 
 Lele, S. R., 2010. Model complexity and information in the data: Could it be a house built on sand? Ecology, 91(12):3493–3496. [PDF](lele-2010-built-on-sand.pdf)
 
-Solymos, P., 2010. dclone: Data Cloning in R. The R Journal 2(2):29-37. [PDF](solymos-2010-dc.pdf)
+Sólymos, P., 2010. dclone: Data Cloning in R. The R Journal 2(2):29-37. [PDF](solymos-2010-dc.pdf)
 
 Lele, S. R., 2020. Consequences of lack of parameterization invariance of non-informative bayesian analysis for wildlife management: survival of San Joaquin Kit Fox and declines in amphibian populations. Front. Ecol. Evol. 7:501. [PDF](lele-2020-parametrization.pdf)
 
