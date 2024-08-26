@@ -2,7 +2,7 @@
 
 > A kurzus nyelve **angol**!
 
-## Részvétel (MÉG ALAKULÓBAN)
+## Részvétel
 
 A kurzus 8 óra hosszú, 2024 augusztus 28-án, de. 8-tól du. 5-ig, az Állatorvostudományi Egyetem [Biostatisztika Tanszékének](https://univet.hu/hu/egyetem/szervezeti-egysegek/biomatematikai-es-szamitastechnikai-tanszek/) számítógépes laborjában ([1078 Budapest, István utca 2.](https://maps.app.goo.gl/AaZDqDmGhdfs3n4r9), N épület, 3. emelet, N3 terem).
 
@@ -26,7 +26,6 @@ A kurzus során előadások és számítógépes gyakorlatok révén fogjuk elma
 A résztvevőktől azt várjuk, hogy ismerik az R programozási nyelv alapjait és jártasak a regressziószámítás területén. A hierarchikus modellek vagy a Bayes-i statisztika ismerete nem követelmény, de hasznos lehet.
 
 A kurzus végén a résztvevők megfelelő alapokkal fognak rendelkezni ahhoz, hogy kritikusan tudjanak gondolkozni a frekventista és Bayes-i modellekről, képesek legyenek (majdnem) minden hierarchikus modell használatára.
-
 
 ## Előkészületek
 
