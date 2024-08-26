@@ -6,7 +6,9 @@
 
 A kurzus 8 óra hosszú, 2024 augusztus 28-án, de. 8-tól du. 5-ig, az Állatorvostudományi Egyetem [Biostatisztika Tanszékének](https://univet.hu/hu/egyetem/szervezeti-egysegek/biomatematikai-es-szamitastechnikai-tanszek/) számítógépes laborjában ([1078 Budapest, István utca 2.](https://maps.app.goo.gl/AaZDqDmGhdfs3n4r9), N épület, 3. emelet, N3 terem).
 
-Jelentkezés az [online űrlap kitöltésével](https://forms.reform.app/analythium/data-cloning-workshop-2024/npne8q) lehetséges.
+Jelentkezés az [online űrlap kitöltésével](https://forms.office.com/e/VaFxrrRYAu) lehetséges.
+
+![](flyer.jpg)
 
 ## Oktatók
 
