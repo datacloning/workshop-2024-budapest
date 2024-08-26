@@ -6,7 +6,9 @@
 
 A kurzus 8 óra hosszú, 2024 augusztus 28-án, de. 8-tól du. 5-ig, az Állatorvostudományi Egyetem [Biostatisztika Tanszékének](https://univet.hu/hu/egyetem/szervezeti-egysegek/biomatematikai-es-szamitastechnikai-tanszek/) számítógépes laborjában ([1078 Budapest, István utca 2.](https://maps.app.goo.gl/AaZDqDmGhdfs3n4r9), N épület, 3. emelet, N3 terem).
 
-Jelentkezés az [online űrlap kitöltésével](https://forms.office.com/e/VaFxrrRYAu) lehetséges.
+A jelentkezés lezárult.
+
+<!-- Jelentkezés az [online űrlap kitöltésével](https://forms.office.com/e/VaFxrrRYAu) lehetséges. -->
 
 ![](flyer.jpg)
 
@@ -34,7 +36,7 @@ Próbáld ki a [Shiny applikációt](./app/).
 
 ## A kurzus alatt
 
-Töltsd le a [bezippelt](https://github.com/datacloning/workshop-2024-budapest/archive/refs/heads/main.zip) verzióját ennek a repónak, vagy használd a `git clone https://github.com/datacloning/workshop-2023-edmonton.git` utasítást ha jártas vagy a Git-ben.
+Töltsd le a [bezippelt](https://github.com/datacloning/workshop-2024-budapest/archive/refs/heads/main.zip) verzióját ennek a repónak, vagy használd a `git clone https://github.com/datacloning/workshop-2024-budapest.git` utasítást ha jártas vagy a Git-ben.
 
 ## Jegyzetek (FRISSÍTÉS ALATT)
 
