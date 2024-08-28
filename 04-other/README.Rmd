@@ -135,6 +135,7 @@ system.time({
         n.update=10^6)
 })
 
+if (.Platform$OS.type != "windows") {
 system.time({
     Normal.Bayes = jags.parfit(
         cl=10,
@@ -142,6 +143,7 @@ system.time({
         n.chains=4,
         n.update=10^6)
 })
+}
 ```
 
 ## I like DC but I don't have time ...
