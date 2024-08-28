@@ -44,11 +44,13 @@ A jegyzetek markdown formátumban a GitHub-on érhetőek el, ajánljuk a _világ
 | Témakör    | Linkek |
 | -------- | ------- |
 | Előkészületek  | [Előkészületek](setup.md)  |
-| Part 1. Bevezetés  | [Jegyzetek](./01-intro/), [App](./app/)  |
-| Part 2. Kevert modellek  | [Jegyzetek](./02-mixed-models/)  |
-| Part 3. Idősorok  | [Jegyzetek](./03-time-series/)  |
+| Part 1. Bevezetés  | [Jegyzetek](./01-intro/), [Diák](./01-intro/preliminaries-slides.pdf), [App](./app/)  |
+| Part 2. Kevert modellek  | [Jegyzetek](./02-mixed-models/), [Diák](./02-mixed-models/random-effects-slides.pdf)  |
+| Part 3. Idősorok  | [Jegyzetek](./03-time-series/), [Diák](./03-time-series/time-series-and-data-cloning-slides.pdf)  |
 | Part 4. Gyakorlati magfontolások  | [Jegyzetek](./04-other/)  |
 | Irodalom  | [PDF fájlok](./irodalom/)  |
+
+A jegyzetek egyben [PDF](./data-cloning-workshop-2024-budapest.pdf) formátumban is elérhetők.
 
 ## Licensz
 
