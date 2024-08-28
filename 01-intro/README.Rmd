@@ -39,7 +39,7 @@ Suppose we visit $n$, a subset, of these cells. These are selected using simple 
 
 ### The likelihood function
 
-Suppose the observed data are (0,1,1,0,0). Then we can compute the probabiity of observing these data under various values of the parameter $\phi$ (assuming independent, identically distributed Bernoulli random variables). It can be written as:
+Suppose the observed data are (0,1,1,0,0). Then we can compute the probability of observing these data under various values of the parameter $\phi$ (assuming independent, identically distributed Bernoulli random variables). It can be written as:
 $L(\phi;y_{1},y_{2},...,y_{n})={\prod}P(y_{i};\phi)={\prod}\phi^{y_{i}}(1-\phi)^{1-y_{i}}$
 
 Notice that this is a function of the parameter $\phi$ and the data are fixed. The likelihood function or equivalently the log-likelihood function quantifies the _relative_ support for different values of the parameters. Hence only the likelihood ratio function is meaningful. 
